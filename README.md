@@ -1,5 +1,5 @@
 # A-Simple-Landing-Page-using-HTML-CSS-and-JS
-Simple Landing Page with some Effects
+Simple Landing Page with some Effects.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/YzYxdpP
 
