@@ -129,9 +129,7 @@ nav #menu li a {
   transition: all 0.3s ease-out;
 }
 
-#resize #menu li a {
-  color: #fff;
-}
+#resize #menu li a { color: #fff; }
 
 #resize.active {
   visibility: visible;
