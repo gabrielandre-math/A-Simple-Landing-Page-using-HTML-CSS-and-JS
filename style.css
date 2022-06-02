@@ -87,9 +87,7 @@ nav #menu li a {
   margin: 5px auto;
 }
 
-#toggle .on #one {
-  transform: rotate(45deg) translateX(2px) translateY(4px);
-}
+#toggle .on #one { transform: rotate(45deg) translateX(2px) translateY(4px); }
 
 #toggle .on #two {
   opacity: 0;
