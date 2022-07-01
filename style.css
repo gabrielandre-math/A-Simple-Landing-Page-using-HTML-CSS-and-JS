@@ -129,7 +129,6 @@ nav #menu li a {
   visibility: visible;
   opacity: 0.99;
 }
-
 @media (max-width: 768px) {
   #toggle {
     visibility: visible;
