@@ -87,7 +87,6 @@ nav #menu li a {
 #toggle .on #two { opacity: 0; }
 
 #toggle .on #three { transform: rotate(-45deg) translateX(8px) translateY(-10px); }
-
 #resize {
   z-index: 1;
   top: 0px;
