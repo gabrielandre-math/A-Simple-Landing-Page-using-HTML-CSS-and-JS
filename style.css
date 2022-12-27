@@ -147,7 +147,6 @@ nav #menu li a {
     text-align: start;
   }
 }
-
 @media (min-width: 768px) {
   #resize {
     visibility: hidden !important;
