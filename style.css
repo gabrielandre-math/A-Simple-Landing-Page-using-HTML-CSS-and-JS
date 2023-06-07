@@ -118,7 +118,6 @@ nav #menu li a {
 }
 
 #resize #menu li a { color: #fff; }
-
 #resize.active {
   visibility: visible;
   opacity: 0.99;
